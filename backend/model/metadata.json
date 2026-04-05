@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "Minor",
+    "Serious",
+    "Fatal"
+  ],
+  "folder_classes": [
+    "1",
+    "2",
+    "3"
+  ],
+  "label_map": {
+    "1": "Minor",
+    "2": "Serious",
+    "3": "Fatal"
+  },
+  "img_size": 224,
+  "model_type": "MobileNetV2"
+}
